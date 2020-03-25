@@ -1,6 +1,12 @@
-.ipynb_checkpoints/
 .DS_Store
-__pycache__/
-*.csv
+.idea
+*.iml
+*.log
+.idea
+*.iml
+
+.ipynb_checkpoints/
+__pycache__
+
+.vscode/
 env.py
-*.csv
